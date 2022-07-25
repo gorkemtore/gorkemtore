@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @gorkemtore from Turkey.
-- 👀 I’m interested in Python Machine Learning
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on who are interested in programming
-- 📫 Contact me, gorkemtore1@gmail.com or instagram: gorkemtore_
-
+Hi, let's have fun and learn. Take it easy it will be OK.
+Contact me: gorkemtore1@gmail.com
 
