@@ -1,10 +1,6 @@
-# Hello, I'm Görkem. 
-***I completed the Database programming branch of***
-***Deniz Yıldızları Vocational Technical Anatolian High School with the 1st place in the school.***
-***Currently, I am actively trying to learn JAVA. If you wish, we can make this process more fun together.***
+# Hi, there 👋
 
-```
-Contact me:
-gorkemtore1@gmail.com
-instagram: gorkemtore_
-```
+![GitHub stats align](https://github-readme-stats.vercel.app/api?username=gorkemtore&show_icons=true&theme=radical)
+
+[![Top Langs align](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemtore)](https://github.com/anuraghazra/github-readme-stats)
+
